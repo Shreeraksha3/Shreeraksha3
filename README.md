@@ -23,8 +23,7 @@ I thrive on turning ideas into impactful solutions.
 
 <img src="https://skillicons.dev/icons?i=python,java,c,mysql,mongodb,html,css,js,react,flask,django,figma,github,docker&perline=8" alt="skills" />
 <br>
-<img src="https://img.shields.io/badge/spaCy-08C?logo=spacy&logoColor=white&style=flat-square" alt="spaCy"/>
-<img src="https://img.shields.io/badge/NLTK-009688?logo=nltk&logoColor=white&style=flat-square" alt="NLTK"/>
+<img src="https://img.shields.io/badge/spaCy-08C?logo=spacy&logoColor=white&style=flat-square" alt="spaCy"/><img src="https://img.shields.io/badge/NLTK-009688?logo=nltk&logoColor=white&style=flat-square" alt="NLTK"/>
 <img src="https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white&style=flat-square" alt="NumPy"/>
 <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=flat-square" alt="Pandas"/>
 <img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white&style=flat-square" alt="Keras"/>
