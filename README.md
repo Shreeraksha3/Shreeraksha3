@@ -1,6 +1,6 @@
 <!-- Profile README for Shreeraksha3 -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&color=4A90E2&width=435&lines=Hi+there%2C+I'm+Shreeraksha+%F0%9F%91%8B;AI+%26+Full+Stack+Enthusiast;Welcome+to+my+[profile]" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&color=4A90E2&width=435&lines=Hi+there%2C+I'm+Shreeraksha+%F0%9F%91%8B;AI+%26+Full+Stack+Enthusiast;Welcome+to+my+profile" />
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60" style="display: block; margin: 0 auto;" />
 
