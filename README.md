@@ -13,13 +13,13 @@ From translating data into insights with AI to designing seamless digital experi
 I thrive on turning ideas into impactful solutions.
 
 **Interests & Skills:**
-- 🔬 AI & ML: Python, Deep Learning, NLP, **C, Java, spaCy, nltk, numpy, pandas, Keras, TensorFlow, Hugging Face Transformers**
+- 🔬 AI & ML: Python, Deep Learning, NLP, C, Java, spaCy, nltk, numpy, pandas, Keras, TensorFlow, Hugging Face Transformers
 - 💻 Web: HTML, CSS, JavaScript, Flask, Django, React
-- 🗄️ Databases: **MySQL, MongoDB**
-- 🐳 DevOps & Hosting: **Docker, Netlify**
+- 🗄️ Databases: MySQL, MongoDB
+- 🐳 DevOps & Hosting: Docker, Netlify
 - 🎨 Design: UI/UX, Figma
 - 🧩 Full Stack: Backend APIs to intuitive front-ends
-- 🛠️ Tools: **GitHub**
+- 🛠️ Tools: GitHub
 
 <img src="https://skillicons.dev/icons?i=python,java,c,mysql,mongodb,html,css,js,react,flask,django,figma,github,docker&perline=8" alt="skills" />
 <br>
