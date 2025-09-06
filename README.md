@@ -1,6 +1,6 @@
 <!-- Profile README for Shreeraksha3 -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&color=4A90E2&width=435&lines=Hi+there%2C+I'm+Shreeraksha+%F0%9F%91%8B;AI+%26+Full+Stack+Enthusiast;Welcome+to+my+GitHub+profile!" style="display: block; margin: 0 auto;" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&color=4A90E2&width=435&lines=Hi+there%2C+I'm+Shreeraksha+%F0%9F%91%8B;AI+%26+Full+Stack+Enthusiast;Welcome+to+my+[...]" />
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60" style="display: block; margin: 0 auto;" />
 
@@ -13,12 +13,24 @@ From translating data into insights with AI to designing seamless digital experi
 I thrive on turning ideas into impactful solutions.
 
 **Interests & Skills:**
-- 🔬 AI & ML: Python, Deep Learning, NLP
+- 🔬 AI & ML: Python, Deep Learning, NLP, **C, Java, spaCy, nltk, numpy, pandas, Keras, TensorFlow, Hugging Face Transformers**
 - 💻 Web: HTML, CSS, JavaScript, Flask, Django, React
+- 🗄️ Databases: **MySQL, MongoDB**
+- 🐳 DevOps & Hosting: **Docker, Netlify**
 - 🎨 Design: UI/UX, Figma
 - 🧩 Full Stack: Backend APIs to intuitive front-ends
+- 🛠️ Tools: **GitHub**
 
-<img src="https://skillicons.dev/icons?i=python,html,css,js,react,flask,django,figma,github" alt="skills" />
+<img src="https://skillicons.dev/icons?i=python,java,c,mysql,mongodb,html,css,js,react,flask,django,figma,github,docker&perline=8" alt="skills" />
+<br>
+<img src="https://img.shields.io/badge/spaCy-08C?logo=spacy&logoColor=white&style=flat-square" alt="spaCy"/>
+<img src="https://img.shields.io/badge/NLTK-009688?logo=nltk&logoColor=white&style=flat-square" alt="NLTK"/>
+<img src="https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white&style=flat-square" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=flat-square" alt="Pandas"/>
+<img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white&style=flat-square" alt="Keras"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat-square" alt="TensorFlow"/>
+<img src="https://img.shields.io/badge/HuggingFace%20Transformers-FFD21F?logo=huggingface&logoColor=black&style=flat-square" alt="Hugging Face Transformers"/>
+<img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white&style=flat-square" alt="Netlify"/>
 
 > _"Learn from your errors, and turn them into your strengths."_
 
@@ -45,9 +57,9 @@ helping businesses better understand and serve their users._
 ## 📌 Other Cool Projects
 
 - [![Ovarian Cancer Detection](https://img.shields.io/badge/Ovarian%20Cancer%20Detection-Deep%20Learning-9B59B6?style=flat-square)](https://github.com/Shreeraksha3/Ovarian_Cancer_Detection)
-- [![Luminous AI Wallpaper Generator](https://img.shields.io/badge/Luminous%20AI%20Wallpaper%20Generator-Generative%20AI-4A90E2?style=flat-square)](https://github.com/Shreeraksha3/Luminous-AI-Wallpaper-Generator)
+- [![Luminous AI Wallpaper Generator](https://img.shields.io/badge/Luminous%20AI%20Wallpaper%20Generator-Generative%20AI-4A90E2?style=flat-square)](https://github.com/Shreeraksha3/Luminous-AI-Wallpape[...]
 - [![Emotion Detection](https://img.shields.io/badge/Emotion%20Detection-Computer%20Vision-27AE60?style=flat-square)](https://github.com/Shreeraksha3/Emotion-Detection)
-- [![Slot Based Ration Distribution](https://img.shields.io/badge/Slot%20Based%20Ration%20Distribution-Public%20Service-F1C40F?style=flat-square)](https://github.com/Shreeraksha3/Slot_Based_Ration_Distribution)
+- [![Slot Based Ration Distribution](https://img.shields.io/badge/Slot%20Based%20Ration%20Distribution-Public%20Service-F1C40F?style=flat-square)](https://github.com/Shreeraksha3/Slot_Based_Ration_Dis[...]
 
 ---
 
