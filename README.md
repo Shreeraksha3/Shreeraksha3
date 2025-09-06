@@ -1,6 +1,6 @@
 <!-- Profile README for Shreeraksha3 -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&color=4A90E2&width=435&lines=Hi+there%2C+I'm+Shreeraksha+%F0%9F%91%8B;AI+%26+Full+Stack+Enthusiast;Welcome+to+my+[...]" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&color=4A90E2&width=435&lines=Hi+there%2C+I'm+Shreeraksha+%F0%9F%91%8B;AI+%26+Full+Stack+Enthusiast;Welcome+to+my+[...]"
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60" style="display: block; margin: 0 auto;" />
 
@@ -23,13 +23,18 @@ I thrive on turning ideas into impactful solutions.
 
 <img src="https://skillicons.dev/icons?i=python,java,c,mysql,mongodb,html,css,js,react,flask,django,figma,github,docker&perline=8" alt="skills" />
 <br>
-<img src="https://img.shields.io/badge/spaCy-08C?logo=spacy&logoColor=white&style=flat-square" alt="spaCy"/><img src="https://img.shields.io/badge/NLTK-009688?logo=nltk&logoColor=white&style=flat-square" alt="NLTK"/>
-<img src="https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white&style=flat-square" alt="NumPy"/>
-<img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=flat-square" alt="Pandas"/>
-<img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white&style=flat-square" alt="Keras"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat-square" alt="TensorFlow"/>
-<img src="https://img.shields.io/badge/HuggingFace%20Transformers-FFD21F?logo=huggingface&logoColor=black&style=flat-square" alt="Hugging Face Transformers"/>
-<img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white&style=flat-square" alt="Netlify"/>
+
+<!-- All requested badges/icons in one line -->
+<p>
+  <img src="https://img.shields.io/badge/spaCy-08C?logo=spacy&logoColor=white&style=flat-square" alt="spaCy"/>
+  <img src="https://img.shields.io/badge/NLTK-009688?logo=nltk&logoColor=white&style=flat-square" alt="NLTK"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white&style=flat-square" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=flat-square" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white&style=flat-square" alt="Keras"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat-square" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/HuggingFace%20Transformers-FFD21F?logo=huggingface&logoColor=black&style=flat-square" alt="Hugging Face Transformers"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white&style=flat-square" alt="Netlify"/>
+</p>
 
 > _"Learn from your errors, and turn them into your strengths."_
 
