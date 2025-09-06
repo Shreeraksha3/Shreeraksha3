@@ -20,7 +20,7 @@ I thrive on turning ideas into impactful solutions.
 
 <img src="https://skillicons.dev/icons?i=python,html,css,js,react,flask,django,figma,github" alt="skills" />
 
-> _"Learn from your mistakes and grow."_
+> _"Learn from your errors, and turn them into your strengths."_
 
 ---
 
