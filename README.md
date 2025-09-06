@@ -61,9 +61,9 @@ helping businesses better understand and serve their users._
 ## 📌 Other Cool Projects
 
 - [![Ovarian Cancer Detection](https://img.shields.io/badge/Ovarian%20Cancer%20Detection-Deep%20Learning-9B59B6?style=flat-square)](https://github.com/Shreeraksha3/Ovarian_Cancer_Detection)
-- [![Luminous AI Wallpaper Generator](https://img.shields.io/badge/Luminous%20AI%20Wallpaper%20Generator-Generative%20AI-4A90E2?style=flat-square)](https://github.com/Shreeraksha3/Luminous-AI-Wallpape[...]
+- [![GenAI Chatbot](https://img.shields.io/badge/GenAI%20Chatbot-Generative%20AI-4A90E2?style=flat-square)](https://github.com/Shreeraksha3/GenAI-Chatbot)
 - [![Emotion Detection](https://img.shields.io/badge/Emotion%20Detection-Computer%20Vision-27AE60?style=flat-square)](https://github.com/Shreeraksha3/Emotion-Detection)
-- [![Slot Based Ration Distribution](https://img.shields.io/badge/Slot%20Based%20Ration%20Distribution-Public%20Service-F1C40F?style=flat-square)](https://github.com/Shreeraksha3/Slot_Based_Ration_Dis[...]
+- [![Slot Based Ration Distribution](https://img.shields.io/badge/Slot%20Based%20Ration%20Distribution-Public%20Service-F1C40F?style=flat-square)](https://github.com/Shreeraksha3/Slot_Based_Ration_Distribution)
 
 ---
 
