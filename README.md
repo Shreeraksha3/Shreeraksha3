@@ -68,8 +68,10 @@ Every mistake is a stepping stone towards mastery. 🚀
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shreeraksha3&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreeraksha3&layout=compact&theme=tokyonight" height="160"/>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shreeraksha3&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreeraksha3&layout=compact&theme=tokyonight" height="160"/>
+</p>
 
 ---
 
