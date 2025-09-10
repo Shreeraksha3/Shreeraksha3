@@ -12,28 +12,35 @@ I'm a passionate student driven by curiosity and the thrill of building things t
 From translating data into insights with AI to designing seamless digital experiences,  
 I thrive on turning ideas into impactful solutions.
 
-**Interests & Skills:**
-- 🔬 AI & ML: Python, Deep Learning, NLP, C, Java, spaCy, nltk, numpy, pandas, Keras, TensorFlow, Hugging Face Transformers
-- 💻 Web: HTML, CSS, JavaScript, Flask, Django, React
-- 🗄️ Databases: MySQL, MongoDB
-- 🐳 DevOps & Hosting: Docker, Netlify
-- 🎨 Design: UI/UX, Figma
-- 🧩 Full Stack: Backend APIs to intuitive front-ends
-- 🛠️ Tools: GitHub
-
-<img src="https://skillicons.dev/icons?i=python,java,c,mysql,mongodb,html,css,js,react,flask,django,figma,github,docker&perline=8" alt="skills" />
-<br>
-
-<!-- All requested badges/icons in one line -->
+**Interests & Skills:**  
 <p>
-  <img src="https://img.shields.io/badge/spaCy-08C?logo=spacy&logoColor=white&style=flat-square" alt="spaCy"/>
-  <img src="https://img.shields.io/badge/NLTK-009688?logo=nltk&logoColor=white&style=flat-square" alt="NLTK"/>
-  <img src="https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white&style=flat-square" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=flat-square" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white&style=flat-square" alt="Keras"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat-square" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/HuggingFace%20Transformers-FFD21F?logo=huggingface&logoColor=black&style=flat-square" alt="Hugging Face Transformers"/>
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white&style=flat-square" alt="Netlify"/>
+  <!-- skillicons.dev icons -->
+  <img src="https://skillicons.dev/icons?i=python" height="32" title="Python"/>
+  <img src="https://skillicons.dev/icons?i=java" height="32" title="Java"/>
+  <img src="https://skillicons.dev/icons?i=c" height="32" title="C"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="32" title="TensorFlow"/>
+  <img src="https://skillicons.dev/icons?i=pytorch" height="32" title="PyTorch"/>
+  <img src="https://skillicons.dev/icons?i=html" height="32" title="HTML"/>
+  <img src="https://skillicons.dev/icons?i=css" height="32" title="CSS"/>
+  <img src="https://skillicons.dev/icons?i=js" height="32" title="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=react" height="32" title="React"/>
+  <img src="https://skillicons.dev/icons?i=flask" height="32" title="Flask"/>
+  <img src="https://skillicons.dev/icons?i=django" height="32" title="Django"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="32" title="MySQL"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="32" title="MongoDB"/>
+  <img src="https://skillicons.dev/icons?i=docker" height="32" title="Docker"/>
+  <img src="https://skillicons.dev/icons?i=figma" height="32" title="Figma"/>
+  <img src="https://skillicons.dev/icons?i=git" height="32" title="Git"/>
+  <img src="https://skillicons.dev/icons?i=github" height="32" title="GitHub"/>
+<br>
+  <!-- Shields.io badges for libraries not on skillicons.dev -->
+  <img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white&style=flat-square" height="28" title="Keras"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=flat-square" height="28" title="Pandas"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white&style=flat-square" height="28" title="NumPy"/>
+  <img src="https://img.shields.io/badge/spaCy-08C?logo=spacy&logoColor=white&style=flat-square" height="28" title="spaCy"/>
+  <img src="https://img.shields.io/badge/NLTK-009688?logo=nltk&logoColor=white&style=flat-square" height="28" title="NLTK"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21F?logo=huggingface&logoColor=black&style=flat-square" height="28" title="Hugging Face Transformers"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white&style=flat-square" height="28" title="Netlify"/>
 </p>
 
 > _"Learn from your errors, and turn them into your strengths."_
@@ -44,6 +51,25 @@ I thrive on turning ideas into impactful solutions.
 
 I believe technology is a force for positive change—learning constantly, embracing challenges, and creating solutions that matter.  
 Every mistake is a stepping stone towards mastery. 🚀
+
+---
+
+## 🛠️ Tech Stack
+
+- **Languages:** Python, Java, C, JavaScript
+- **Web:** HTML, CSS, React, Flask, Django
+- **Databases:** MySQL, MongoDB
+- **AI/ML:** Deep Learning, NLP, spaCy, nltk, numpy, pandas, Keras, TensorFlow, Hugging Face Transformers
+- **DevOps & Hosting:** Docker, Netlify
+- **Design:** UI/UX, Figma
+- **Version Control:** Git & GitHub
+
+---
+
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=Shreeraksha3&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreeraksha3&layout=compact&theme=tokyonight" height="160"/>
 
 ---
 
@@ -74,3 +100,8 @@ helping businesses better understand and serve their users._
 ---
 
 <img src="https://komarev.com/ghpvc/?username=Shreeraksha3&style=flat-square&color=4A90E2" alt="profile views"/>
+
+<!-- Motivational Quote -->
+> _"Keep learning, keep building, and let your code speak for you!"_
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
