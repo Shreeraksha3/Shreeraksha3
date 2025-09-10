@@ -49,7 +49,7 @@ Every mistake is a stepping stone towards mastery. 🚀
 
 ## 🌟 Featured Project
 
-<a href="https://github.com/PotlapelliHarshita/Extracting-Insights-from-Customer-Feedback">
+<a href="https://github.com/Shreeraksha3/Extracting-Insights-from-Customer-Feedback">
   <img src="https://img.shields.io/badge/Customer%20Review%20Insight%20AI-NLP%20powered-4A90E2?style=for-the-badge&logo=python&logoColor=white" alt="Featured Project"/>
 </a>
 
