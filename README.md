@@ -32,6 +32,17 @@ I thrive on turning ideas into impactful solutions.
   <img src="https://skillicons.dev/icons?i=figma" height="32" title="Figma"/>
   <img src="https://skillicons.dev/icons?i=git" height="32" title="Git"/>
   <img src="https://skillicons.dev/icons?i=github" height="32" title="GitHub"/>
+  <!-- Jupyter Notebook -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="32" title="Jupyter Notebook"/>
+  
+  <!-- Google Colab -->
+  <img src="https://skillicons.dev/icons?i=googlecolab" height="32" title="Google Colab"/>
+  
+  <!-- VS Code -->
+  <img src="https://skillicons.dev/icons?i=vscode" height="32" title="VS Code"/>
+  
+  <!-- Gradio -->
+  <img src="https://raw.githubusercontent.com/Shreeraksha3/assets/main/gradio.svg" height="32" title="Gradio"/>
 <br>
   <!-- Shields.io badges for libraries not on skillicons.dev -->
   <img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white&style=flat-square" height="28" title="Keras"/>
