@@ -42,7 +42,7 @@ I thrive on turning ideas into impactful solutions.
   <img src="https://skillicons.dev/icons?i=vscode" height="32" title="VS Code"/>
   
   <!-- Gradio -->
-  <img src="https://raw.githubusercontent.com/Shreeraksha3/assets/main/gradio.svg" height="32" title="Gradio"/>
+  <img src="https://raw.githubusercontent.com/Shreeraksha3/assets/main/gradio.png" height="32" title="Gradio"/>
 <br>
   <!-- Shields.io badges for libraries not on skillicons.dev -->
   <img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white&style=flat-square" height="28" title="Keras"/>
