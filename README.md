@@ -36,7 +36,7 @@ I thrive on turning ideas into impactful solutions.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="32" title="Jupyter Notebook"/>
   
   <!-- Google Colab -->
-  <img src="https://skillicons.dev/icons?i=googlecolab" height="32" title="Google Colab"/>
+  <img src="https://raw.githubusercontent.com/Shreeraksha3/assets/main/google_colab.png" height="32" title="Google Colab"/>
   
   <!-- VS Code -->
   <img src="https://skillicons.dev/icons?i=vscode" height="32" title="VS Code"/>
